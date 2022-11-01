@@ -1,0 +1,21 @@
+body{
+    background-color: #FF69B4; 
+    background-image: url(flowers.png)
+}
+
+H3{
+    color:purple
+
+}
+
+H3{
+    font-size: 36px;
+}
+
+mark{
+    background-color: white;
+}
+
+H3{
+    font-family: 'Send Flowers', cursive;
+}
